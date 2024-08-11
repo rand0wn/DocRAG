@@ -1,0 +1,11 @@
+.env
+env/
+env
+
+__pycache__/
+*.ipynb
+
+*.mp4
+todo
+
+db/
